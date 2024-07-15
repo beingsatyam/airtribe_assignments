@@ -28,8 +28,11 @@ sort (string): Sort tasks by creation date (asc or desc).
 ## Retrieve a single task by ID
 
 URL: /tasks/:id
+
 Method: GET
+
 Description: Retrieve a single task by its ID.
+
 Create a new task
 URL: /tasks
 Method: POST
